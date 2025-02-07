@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Github to explore more
 - 📫 How to reach me srsagartech@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 SagarSRTech/SagarSRTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
